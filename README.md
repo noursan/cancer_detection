@@ -6,6 +6,6 @@ This project aims at identifying metastatic tissue from a series of provided his
 ! [ONGOING PROJECT]
 ```
 
-Check out my project in this [python jupiter notebook]().
+Check out my project in this [python jupiter notebook](https://github.com/noursan/cancer_detection/blob/main/cancer_detection.ipynb).
 
 The histopathologic scans can be found [here](https://www.kaggle.com/c/histopathologic-cancer-detection/data).
